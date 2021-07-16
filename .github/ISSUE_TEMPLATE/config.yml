@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Kodular Community
+    url: https://community.kodular.io
+    about: Please ask and answer questions here.
+  - name: Kodular Docs
+    url: https://docs.kodular.io
+    about: Documentation and Support pages.
